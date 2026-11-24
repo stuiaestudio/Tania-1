@@ -1,0 +1,6 @@
+Allura
+Copyright 2011 TypeSETit, LLC (typesetit@att.net), with Reserved Font Name "Allura".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+Full license text: https://openfontlicense.org/open-font-license-official-text/
+Source: Google Fonts (https://fonts.google.com/specimen/Allura)
